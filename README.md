@@ -1,8 +1,8 @@
-<center>
-	<h1>Hospital Information System</h1>
-	<img src="https://i.imgur.com/vtGiGZA.png">
-	<h5>Software Engineering Academy<br>COMPFEST 2021</h5>
-</center>
+<h1 align="center">
+Hospital Information System
+</h1>
+<p align="center"> <img src="https://i.imgur.com/vtGiGZA.png"> </p>
+<h5 align="center">Software Engineering Academy<br>COMPFEST 2021</h5>
 
 ---
 
