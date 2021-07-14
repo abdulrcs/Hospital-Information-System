@@ -70,7 +70,7 @@ export default function RegisterForm() {
     } else {
       toast({
         status: 'warning',
-        description: ' Fill all fields..',
+        description: ' Fill all fields.',
         isClosable: true,
       })
       setLoading(false)
