@@ -1,5 +1,4 @@
 import {
-  Text,
   Modal,
   ModalOverlay,
   ModalContent,
