@@ -1,13 +1,10 @@
 import {
-  Text,
   Box,
   Flex,
   Stack,
   FormControl,
   FormLabel,
   Input,
-  FormHelperText,
-  Image,
   Button,
   useToast,
 } from '@chakra-ui/react'
